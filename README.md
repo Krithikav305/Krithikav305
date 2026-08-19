@@ -1,5 +1,5 @@
-👋 Hi, I'm Krithika./
+👋 Hi, I'm Krithika.
 
-MSc Data Science student @ FAU Erlangen-Nürnberg./
+MSc Data Science student @ FAU Erlangen-Nürnberg.
 
-Take a look at my repositories./
+Take a look at my repositories.
